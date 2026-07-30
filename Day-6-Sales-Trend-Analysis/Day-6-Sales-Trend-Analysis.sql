@@ -1,1 +1,5 @@
-
+-- =====================================================
+-- Day 6 - Sales Trend Analysis Using SQL
+-- Data Analytics Internship
+-- Author: Ravikumar Gujar
+-- =====================================================
